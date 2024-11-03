@@ -1,0 +1,3 @@
+Este repositório é apenas para treinamento com várias linguagens. 
+
+Exemplo: Python, JavaScript, PHP... 
